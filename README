@@ -8,4 +8,5 @@ kseq_fastq_base [input.fq]
 FASTQ files could be gzipped! ^_^.
 The statistic results would be printed on STDOUT.
 
-It could deal with ~4M reads (1G base) in less than 40 seconds.
+It could deal with ~4M reads (1G base) in less than 40 seconds, ~50M reads (14G base) in less than 5 minutes!!!
+
