@@ -1,7 +1,7 @@
 This is a simple tool to calculate reads number and total base count in FASTQ file. Modified from http://lh3lh3.users.sourceforge.net/parsefastq.shtml.
 
 Compile:
-gcc -lz -o kseq_fastq_base kseq_fastq_base.c
+gcc -o kseq_fastq_base kseq_fastq_base.c -lz
 
 Usage:
 kseq_fastq_base [input.fq]
